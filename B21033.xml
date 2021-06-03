@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Darrel's reply to sir Jeremy Whichcott's pretended answer to two printed questions alleadged by Mr. Darrel, to be debated before the House of Peers.</title>
+            <author>Darrell, Marmaduke, Sir.</author>
+         </titleStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21033</idno><idno type="EEBO-CITATION">99888416</idno>
+  <idno type="VID">201754</idno>
+  <idno type="EEBO-PROQUEST">2248547278</idno>
+  
+            <idno type="STC">Wing D264</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[181]</idno>
+            <idno type="STC">ESTC R229736</idno>
+            <idno type="PROQUEST">ocm99888416</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888416e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201754)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[181])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Darrel's reply to sir Jeremy Whichcott's pretended answer to two printed questions alleadged by Mr. Darrel, to be debated before the House of Peers.</title>
+                  <author>Darrell, Marmaduke, Sir.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Trusts and trustees --  England --  Cases --  Early works to 1800.</term>
+               <term type="topical_term">Executors and administrators --  England --  Cases --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201754:1"/>
+            <head>Mr. DARREL'S Reply to Sir JEREMY WHICH<g ref="char:EOLhyphen"/>COTT'S pretended Answer to Two Printed Questions alleadged by Mr. DARREL, to be debated before the House of Peers.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>HE first Question being, whether <hi>Hampden Ashfeild</hi> were a Trustee for Mr. <hi>Darrel,</hi> or for Sir <hi>Thomas Ashfeild,</hi> (under whom Sir <hi>Jeremy Whichcott</hi> Claims) Mr. <hi>Darrel</hi> did Assert, (1) That Sir <hi>Thomas Ashfeild,</hi> upon is Oath in the Court of <hi>Wards,</hi> Disclaimed all Interest in the <hi>Coal Farm;</hi> whereunto Sir <hi>Jeremy Whichcott</hi> Answereth, (1) That Sir <hi>Thomas Ashfeild</hi> doth not Disclaim, but only saith, That he Claimeth nothing in the <hi>Coal Farm.</hi> (2) That Sir <hi>Thomas</hi> Swears in the same Answer, That <hi>Hampden Asheild</hi> was Real Purchaser. (3) That Sir <hi>Thomas Ashfeild</hi> did afterwards Swear in <hi>Chaucery,</hi> That <hi>Hampden Ashfeild</hi> was but a Trustee for Sir <hi>Thomas:</hi> To which Mr. <hi>Darrel</hi> Replyes, (1) That he Humbly conceives it is one and the same thing, for a Man to Disclaim upon his Oath all Interest in the <hi>Coal Farm,</hi> or to Swear he Claims nothing in the said <hi>Coal Farm,;</hi> the Words Importing the same sense to every Mans apprehension, but to Sir <hi>Jeremy Whichcotts.</hi> (2) That Sir <hi>Thomas Ashfeild's</hi> Oath in the Court of <hi>Wards,</hi> where he Swears positively against himself, that he Claims nothing in the <hi>Coal Farm,</hi> is of much more avail than his Answer in <hi>Chancery,</hi> where he endeavours (contrary to his former Oath) to Swear up a Title to Himself. (3) That Mr. <hi>Darrel</hi> is not concerned to justisie every ill Action of Sir <hi>Thomas Ashfeild;</hi> it being notorious to all Men, that <hi>Hampden Ashfeild</hi> could not be a Real Purchaser and Trustee of the same thing; but desires it may be taken Notice of, that Sir <hi>Thomas Ashfeild</hi> Disclaimed in the Court of <hi>Wards,</hi> when things were fresh in Memory, Witnesses alive, and Sir <hi>Thomas</hi> in a thriving Condition; but his Answer was put in, in <hi>Chancery</hi> many Ye<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs after, when his necessities had brought him into the <hi>Fleet,</hi> under the good Government of Sir <hi>Jeremy Whichcott.</hi>
+            </p>
+            <p n="2">2. Mr. <hi>Darrells</hi> next proof being the Oath of <hi>Hampden Ashfeild,</hi> who Swears in <hi>Chancery,</hi> That he was a Trustee for Mr. <hi>Darrel.</hi> Sir <hi>Jeremy Whichcott</hi> Replyes, That <hi>Hampden Ashfeild</hi> being a Prisoner, and near starving, was tempted by Mr. <hi>Darrel</hi> with some Money, and the hopes of Liberty, to depose in such a manner as he did: Whereunto Mr. <hi>Darrel</hi> Replys, (1) That <hi>Hampden Ashfeild</hi> did in several Answers in <hi>Chancery</hi> Swear the Trust to be for Mr. <hi>Darrel,</hi> some of which were Fi<g ref="char:EOLhyphen"/>led in the Court long before <hi>Hampden Ashfeild</hi> was a Prisoner, or any ways likely to be one. (2) How improbable is it, that <hi>Hampden Ashfeild</hi> being Sir <hi>Jeremy Whichcotts</hi> Prisoner, should be prevailed with to Forswear himself against the Inter st of his Keeper. (3) Mr. <hi>Darrel</hi> denys the Charge as an Impudent Calumny; the contrary being true, as appeared in <hi>Chancery</hi> by the Oaths of Captain <hi>Robert Bacon,</hi> and others, who deposed, That <hi>Hampden Ashfeild</hi> being upon his Death-bed, did very much desire he might not be prestred with Sir <hi>Thomas Ashfeilds</hi> Agents, who would have him go perjured to the Grave, in de<g ref="char:EOLhyphen"/>nying the Trust to be for Mr. <hi>Darrel,</hi> which he was resolved not to do. And for the Testimonies of <hi>Pitcher, Ellis, Buckley</hi> and <hi>Hancock,</hi> they were little regarded at the Hearing of the Cause, being persons of ill Fame, known Emissaries of Sir <hi>Je<g ref="char:EOLhyphen"/>remy Whichcott,</hi> and encounter'd by the Convictive Evidence of persons of unquestioned reputation.</p>
+            <p n="3">3. Mr. <hi>Darrels</hi> next Assertion was, That Sir <hi>Thomas Ashfeild</hi> had frequently declared the Trust to be for Mr. <hi>Darrel:</hi> And Sir <hi>Jeremy Wichcotts</hi> Answer is, That he hath sworn the contrary: To which Mr. <hi>Darrel</hi> Replys, That Sir <hi>Jeremy Which<g ref="char:EOLhyphen"/>cott</hi> is very apt to forget what Sir <hi>Thomas Ashfeild</hi> did swear in the Court of <hi>Wards,</hi> when matters were fresh in Memory, and Sir <hi>Thomas Ashfeild</hi> at liberty, which is much more to be valued than what he swore when his Imprisonment, and other Necessities compelled him to be too obsequious to Sir <hi>Jeremy Whichcott.</hi> Not to add that the many Endeavours which Sir <hi>Thomas Ashfeild</hi> did use to surprise Mr. <hi>Darrel</hi> into a Release so soon as he came of Age, do but too plainly make it out what an Interest Mr. <hi>Darrel</hi> had in the <hi>Coal Farm.</hi>
+            </p>
+            <p n="4">4. Mr <hi>Darrels</hi> Fourth Assertion was, That the Decree made in <hi>Chancery</hi> in 1660. doth establish the Trust to be for Mr. <hi>Darrel:</hi> To which Sir <hi>Jeremy Whichcott</hi> Answereth, There was no such Decree: And Mr. <hi>Darrel</hi> Replyeth, Let the Record be Judg between them, and the Memories of all those Noble Lords, who had the patience to hear all the Decree read at the last Hearing of the Cause.</p>
+            <p n="5">5. Supporsing it to be Objected, That Two Verdicts had found the Trust against Mr. <hi>Darrel,</hi> Answered, That one of the Verdicts was set aside for indirect practises in procuring a Jury; and the other for Contradiction, finding that <hi>Hampden Ash<g ref="char:EOLhyphen"/>feild</hi> was a Real Purchaser as well as Sir <hi>Thomas Ashfeild:</hi> To which Sir <hi>Jeremy Whichcott</hi> saith, (1) Neither of the Verdicts were set aside. (2) It is no Contradiction: Whereunto Mr. <hi>Darrel</hi> Replys, (1) That the Rules and Orders of the Court do plainly shew, That the first Verdict was set aside for indirect practises, which were produced, and accordingly read, as the last Hearing of the Cause before the House of Peers; which makes Mr. <hi>Darrel</hi> a little wonder at the Memory of Sir <hi>Jeremy Which<g ref="char:EOLhyphen"/>cott,</hi> as well as at his Ingenuity for endeavouring so very unluckily to reconcile the flat contradiction of the second Verdict.</p>
+            <p>The next Question being, How Mr. <hi>Darrel</hi> could make out any Claim to the New Patent granted to Sir <hi>Jeremy Whichcott.</hi>
+            </p>
+            <p>Mr. <hi>Darrel</hi> did insist, That Sir <hi>Jeremy Whichcott</hi> having made his Application to the King, as an old Tenant, and re<g ref="char:EOLhyphen"/>ceiving a benefit from the Crown, as an old Tenant, (regard being then had by His Majesty, of the loss formerly sustain<g ref="char:EOLhyphen"/>ed by the old Tenants) the advantage as to that fifth part ought to redound to Mr. <hi>Darrel,</hi> who sustained the loss in the War time, and for whom the said Sir <hi>Jeremy Whichcott</hi> was intrusted, it having being the constant practise in <hi>Chancery,</hi> That if a Trustee of a Church or Colledge Lease will renew the same, with intention to apply it to his own advantage, yet the whole benefit thereof by the usage in <hi>Chancery,</hi> shall go to the person for whom he was intrusted; allowance being only made to the Trustee, for his Expences in renewing the same: To which Sir <hi>Jeremy</hi> Answers, (1) That His Majesty in the new Grant had no Consideration of the old Tenant. (2) That the Argument does not any ways Conclude from the usage of a Church or Colledge Lease, to a Lease made by the Crown: To which Mr. <hi>Darrel</hi> Replys, (1) That it is Evident by the proof read in the Cause, that Sir <hi>Jeremy Whichcott</hi> did make his Application to His Majesty as an old Tenant, and upon that score did obtain his share in the New Patent. (2) Mr. <hi>Darrel</hi> doth conceive it is most plain, That (although the King is not any ways obliged to grant a Lease to an old Tenant) yet if His Majesty shall be pleased to extend so much Clemency to an old Tenant, upon the very account of his being an old Tenant; That in such Case the <hi>Cesty que trust</hi> shall have the be<g ref="char:EOLhyphen"/>nefit of it, and not the Trustee; which is sufficiently warranted by the usual Course of <hi>Chancery,</hi> and is so applicable to Mr. <hi>Darrels</hi> Case, that <hi>Mr. Darrel</hi> cannot possibly conceive how his Coursel should be ashamed of the Argument, seeing it is suffi<g ref="char:EOLhyphen"/>ciently known, that none of Sir <hi>Jeremy Whichcotts</hi> Councel did ever give any tollerable Answer to it.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
